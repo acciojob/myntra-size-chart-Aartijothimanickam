@@ -1,2 +1,37 @@
+ table{
+    width: 80%;
+    margin: 10%;
+	border: 1px solid black; 
+    border-collapse: collapse;
+	padding: 1px;
+    overflow: hidden;
+}
+
+th,tr,td{
+    height: 10px ;
+    border: 1px solid black; 
+    border-collapse: collapse;
+	padding: 1px;
+    overflow: hidden;
+}
+th{
+    color: white;
+    background-color: rgb(85, 27, 27);
+    text-align: left;
+}
+
+.C{
+    background-color: rgb(196, 154, 154);
+}
+.s{
+    background-color: rgb(65, 88, 68);
+}
+.W{
+    background-color: rgb(190, 95, 95);
+    color: aliceblue;
+}
+.content{
+    text-align: right;
+} 
 
 /* Your CSS Code here. */
